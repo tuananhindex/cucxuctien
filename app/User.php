@@ -1,4 +1,4 @@
-ádasdưe<?php
+<?php
 
 namespace App;
 

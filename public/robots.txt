@@ -1,3 +1,2 @@
-   ádUser-agent: *
+User-agent: *
 Disallow:
-ấdasd
