@@ -1,0 +1,8 @@
+#Options +FollowSymlinks
+RewriteEngine off
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteBase /

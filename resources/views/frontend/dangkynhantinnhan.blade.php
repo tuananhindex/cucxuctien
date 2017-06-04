@@ -1,0 +1,1 @@
+Bạn vui lòng ấn vào <a href="{{ route('xacnhandangkynhantinkhuyenmai',[$name,$email]) }}">link này</a> để xác nhận đăng ký nhận tin khuyến mãi
